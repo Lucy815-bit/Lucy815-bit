@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 * Scrapy/ BeautifulSoup
 * Python programming language
 * Databases
-      *MongoDB
-      *Mysql
-      *Sqlite
+  * MongoDB
+  * Mysql
+  * Sqlite
 * Data analysis python libraries
   * Pandas
   * Numpy
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
  * Machine Learning and Deep Learning Projects
  * Software development
  * web development
+ 
  #🤔 I’m looking for help with ...
  * Bootstrap
  * JavaScript
@@ -48,16 +49,19 @@ Here are some ideas to get you started:
  * OpenCV
  * Tensorflow
  * Pytorch
+ 
  #💬 Ask me about ...
  * C++ programming
  * python programming basics
  * MongoDB
  * Project Documentation
  * Writing project proposals
+ 
  # 📫 How to reach me: ...
  * Email- afidermbuge1@gmail.com
  * Mobile - +254 729023458
  * [linkedin](https://www.linkedin.com/in/lucy-achieng-wagoro-b833061b3/)
+ 
  #⚡ Fun fact: ...
  * Travelling
  * Swimming
