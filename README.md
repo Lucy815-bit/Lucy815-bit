@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 * Django Guest book project
 * Workflow in Django
 * Data Mining and Data Cleaning Projects
 * Machine Learning and Deep Learning Projects
 
-##🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 * Scrapy/ BeautifulSoup
 * Python programming language
 * Databases
@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 * MS DOS/ LINUX
 * AWS
  
- ##👯 I’m looking to collaborate on ...
+ ## 👯 I’m looking to collaborate on ...
  * Data Mining and Data Cleaning Projects
  * Machine Learning and Deep Learning Projects
  * Software development
  * web development
  
- #🤔 I’m looking for help with ...
+ # 🤔 I’m looking for help with ...
  * Bootstrap
  * JavaScript
  * Keras
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  * Tensorflow
  * Pytorch
  
- #💬 Ask me about ...
+ # 💬 Ask me about ...
  * C++ programming
  * python programming basics
  * MongoDB
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
  * Mobile - +254 729023458
  * [linkedin](https://www.linkedin.com/in/lucy-achieng-wagoro-b833061b3/)
  
- #⚡ Fun fact: ...
+ # ⚡ Fun fact: ...
  * Travelling
  * Swimming
  * Singing
