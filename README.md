@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I’m currently working on ...
+#🔭 I’m currently working on ...
 * Django Guest book project
 * Workflow in Django
 * Data Mining and Data Cleaning Projects
@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 #🌱 I’m currently learning ...
 * Scrapy/ BeautifulSoup
-
 * Python programming language
 * Databases
       *MongoDB
       *Mysql
       *Sqlite
 * Data analysis python libraries
-      * Pandas
-      * Numpy
-      * Seaborn
-      * Matplotlib
-      * Sklearn
- * MS DOS/ LINUX
- * AWS
+  * Pandas
+  * Numpy
+  * Seaborn
+  * Matplotlib
+  * Sklearn
+* MS DOS/ LINUX
+* AWS
+ 
  #👯 I’m looking to collaborate on ...
  * Data Mining and Data Cleaning Projects
  * Machine Learning and Deep Learning Projects
