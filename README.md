@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   * Seaborn
   * Matplotlib
   * Sklearn
-* MS DOS/ LINUX
+* MS DOS/ LINUX and Windows
 * AWS
  
  ## 👯 I’m looking to collaborate on ...
