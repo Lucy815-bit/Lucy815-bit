@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  
  # 💬 Ask me about ...
  * C++ programming
- * python programming basics
+ * Python programming
  * MongoDB
  * Project Documentation
  * Writing project proposals
