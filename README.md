@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  * Data Mining and Data Cleaning Projects
  * Machine Learning and Deep Learning Projects
  * Software development
- * web development
+ * Web development
  
  # 🤔Looking for help with ...
  * Keras
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
  # ⚡ Fun fact: ...
  * Travelling
  * Swimming
- * Singing
+ * Singing Worship songs
  * Baking
  
  
