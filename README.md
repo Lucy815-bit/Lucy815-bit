@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 * Workflow in Django
 * Data Mining and Data Cleaning Projects
 * Machine Learning and Deep Learning Projects
-
-## 🌱Currently learning ...
-* Scrapy/ BeautifulSoup
+* Scrapy 
+* BeautifulSoup
 * Python programming language
 * Databases
   * MongoDB
@@ -43,8 +42,6 @@ Here are some ideas to get you started:
  * web development
  
  # 🤔Looking for help with ...
- * Bootstrap
- * JavaScript
  * Keras
  * OpenCV
  * Tensorflow
